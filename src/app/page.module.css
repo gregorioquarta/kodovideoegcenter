@@ -8,12 +8,16 @@
 }
 
 .description {
-  display: inherit;
-  justify-content: inherit;
-  align-items: inherit;
+  width: 100vw;
+ 
+
+  display: flex;
+  justify-content: center;
+  
+  
   font-size: 0.85rem;
   max-width: var(--max-width);
-  width: 100%;
+  
   z-index: 2;
   font-family: var(--font-mono);
 }
