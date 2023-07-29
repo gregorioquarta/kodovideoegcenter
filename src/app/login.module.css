@@ -6,9 +6,9 @@
     justify-content: space-evenly;
     position: absolute;
     top: 0px;
-    background-image: url('../../public/cia.jpg');
+    background-image: url('../../public/ada.png');
     background-position: center;
-    
+    background-size: cover;
     z-index: 5;
 }
 .box > div {
