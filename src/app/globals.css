@@ -98,6 +98,10 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+main {
+  background-color: #a15d73;
+}
+
 a {
   color: inherit;
   text-decoration: none;
